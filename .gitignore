@@ -1,0 +1,8 @@
+# Python virtualenv created by .cursor/install.sh
+.venv/
+
+# App source extracted from domain_pro_tool.zip at setup time
+/domain_pro_tool/
+
+__pycache__/
+*.pyc
